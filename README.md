@@ -200,5 +200,5 @@ This system is built with <strong>ASP.NET</strong> and <strong>SQL Server</stron
 </ul>
 
 <div align="center" style="margin-top:30px; font-size:16px; color:#555;">
-Made by <strong>Syed Saqueeb</strong> <br>⬆ back to top
+Made by <strong><a href="https://syedsaqueeb.netlify.app/">https://syedsaqueeb.netlify.app/</a>Syed Saqueeb</strong> <br>⬆ back to top
 </div>

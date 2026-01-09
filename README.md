@@ -200,10 +200,10 @@ This system is built with <strong>ASP.NET</strong> and <strong>SQL Server</stron
 </ul>
 
 <div align="center" style="margin-top:30px; font-size:16px; color:#555;">
-  Made by <strong>
+  Made by Developer:<strong>
     <a href="https://syedsaqueeb.netlify.app/" target="_blank" style="text-decoration:none; color:#2E8B57;">
       Syed Saqueeb
-    </a>
+    </a> 
   </strong>
   <br>
   ⬆ back to top
